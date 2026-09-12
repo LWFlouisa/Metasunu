@@ -1,0 +1,15 @@
+encrireln Immigration Status
+hlim 2 :born_in_alsace ehena_is_born_in_alsace :japanese_mother ehenas_mother_is_japanese :french_father ehenas_father_is_alsatian
+
+encrireln Backstory Angle
+hlim 2 :murdered_brothers ehena_murdered_her_two_brothers :institutionalized ehenas_is_instutionalized :sail_to_new_world ehena_travels_to_new_world
+
+encrireln Deep Lore
+hlim 2 :demonic_posession ehena_posessed_by_kumabatto_de_les_ghoules :murdered_father murdered_her_father :uncertain_identity ehenas_fathers_identity_is_uncertain
+
+encrireln Distance In Memory For Japanese Mom
+mperiod 0.30898424999999996 150 0.30898424999999996 0.30898424999999996 150 0.30898424999999996
+encrireln Distance In Memory For Born In Alsace
+mperiod 0.60898425 150 0.60898425 0.60898425 150 0.60898425
+encrireln Distance In Memory For French Father
+mperiod 0.60898425 150 0.60898425 0.60898425 150 0.60898425
