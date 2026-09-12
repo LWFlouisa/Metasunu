@@ -1,4 +1,4 @@
-./auto_parser_ternary 2 "awa" :samu '# ################################################################################### #
+./auto_parser_generic 2 "awa" :samu '# ################################################################################### #
 #                                       Episcript                                     #
 # ################################################################################### #
 samu sabo Eat Burn Toss apple banana lemon you I she apple banana lemon you I she eat burn toss
