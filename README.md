@@ -13,7 +13,7 @@ awasunu hello_world.awa
 ## Mperoid
 Mperoid represent the distance in memory between cold or hot traumatic events.
 
-~~~
+~~~awausunu
 encrireln DIMENSION ONE
 
 encrireln DESCENDANTS
@@ -21,44 +21,19 @@ encrireln [ :hemato_tomato, "descendants from hemato tomato" ]
 mperiod 0.45898425 150 0.45898425 0.45898425 150 0.45898425
 encrireln [ :ehena_marie, "descendants of ehena marie" ]
 mperiod 0.45898425 150 0.45898425 0.45898425 150 0.45898425
+~~~
 
-espace
-
-encrireln LOCATIONS
-encrireln [ :unclaimed_regions, regions_where_refugees_make_a_new_life ]
-mperiod 0.007317727776562499 150 0.007317727776562499 0.007317727776562499 150 0.007317727776562499
-encrireln [ :french_atlantic_states, french_territories_of_neo_colonialism ]
-mperiod 0.30898424999999996 150 0.30898424999999996 0.30898424999999996 150 0.30898424999999996
-
-espace
-
-encrireln ENEMIES
-encrireln [ :acid_dragons, acid_dragons_resist_the_low_ph_of_the_sea ] 
-mperiod 0.15898425 150 0.15898425 0.15898425 150 0.15898425
-encrireln [ :sea_gargoyals, sea_gargoyals_guard_the_ancient_temple ]
-mperiod 0.30898424999999996 150 0.30898424999999996 0.30898424999999996 150 0.30898424999999996
-
-espace
-
-encrireln STATS  
-encrireln [ determine_how_long_till_armor_wears_out, :lunar_calender ] 
-mperiod 0.45898425 150 0.45898425 0.45898425 150 0.45898425
-encrireln [ determine_how_long_till_armor_wears_out, :lunar_calender ]
-mperiod 0.15898425 150 00.15898425 0.15898425 150 0.15898425
-
-espace
- 
-encrireln STEALTH  
-encrireln [ :trap, Permanently_or_semi_permanently_immoblizes_the_opponent ]
-mperiod 0.15898425 150 00.15898425 0.15898425 150 0.15898425
-encrireln [ :trap, Permanently_or_semi_permanently_immoblizes_the_opponent ]
-mperiod 0.30898424999999996 150 0.30898424999999996 0.30898424999999996 150 0.30898424999999996
-
-espace
-
-encrireln ACTIVE  
-encrireln [ :epee, epee_representing_a_french_fencing_weapon ] 
-mperiod 0.0085350375 150 0.0085350375 0.0085350375 150 0.0085350375
-encrireln [ :epee, epee_representing_a_french_fencing_weapon ]
-mperiod 0.15898425 150 00.15898425 0.15898425 150 0.15898425
+~~~
+DIMENSION ONE  
+DESCENDANTS  
+[ :hemato_tomato, "descendants from hemato tomato" ]  
+COLD MAP
+Distance from Medusahoseki ( Medusa Gem ): 81.0 THIS MEMORY WAS FROM A PRIOR 6.0 YEAR PERIOD
+HEAT MAP
+Distance from Nemedusahoseki ( Salamander Riding Goat ): 69.0 THIS MEMORY WAS FROM A PRIOR 6.0 YEAR PERIOD
+[ :ehena_marie, "descendants of ehena marie" ]  
+COLD MAP
+Distance from Medusahoseki ( Medusa Gem ): 81.0 THIS MEMORY WAS FROM A PRIOR 6.0 YEAR PERIOD
+HEAT MAP
+Distance from Nemedusahoseki ( Salamander Riding Goat ): 69.0 THIS MEMORY WAS FROM A PRIOR 6.0 YEAR PERIOD
 ~~~
