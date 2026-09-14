@@ -1,7 +1,3 @@
----
-title: "Rank Organization"
-layout: base.html
----
 ## Rank Organization
 The context of this command structure assumes a Franco-Japanese War context in my science fiction setting, and therefore are not intended as a good thing, but representative of how much society has left to go before men and women are truly equal. Neuter honorifics are a special case, as they can take on a women's form, and yet have all of the abilities that any male unit can have in campaign structures.
 
