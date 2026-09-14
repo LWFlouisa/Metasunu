@@ -37,3 +37,8 @@ Distance from Medusahoseki ( Medusa Gem ): 81.0 THIS MEMORY WAS FROM A PRIOR 6.0
 HEAT MAP
 Distance from Nemedusahoseki ( Salamander Riding Goat ): 69.0 THIS MEMORY WAS FROM A PRIOR 6.0 YEAR PERIOD
 ~~~
+
+<i>Author Note: Differences from Italian</i>
+Francais has 3 Lexical Genders while Italian has Masculine and Feminine. This means that multidimensional lexical gender relies extensively on masculine, feminine, and neuter variations.
+
+This next DSL updates will continue this traditional by specifically designating Neuter to specifically mean intelligent machine characters.
