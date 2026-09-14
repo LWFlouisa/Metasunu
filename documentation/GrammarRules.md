@@ -1,7 +1,3 @@
----
-title: "Grammar Rules"
-layout: base.html
----
 # Concept
 As its diverged significantly enough from French, I'm laying the grammar rules here.
 
