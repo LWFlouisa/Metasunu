@@ -1,7 +1,3 @@
----
-title: "Agents And PCG"
-layout: base.html
----
 ## Agents And Procedural Content Generation
 This lays out a blueprint for how procedural content generation works, in context of agentic systems.
 
