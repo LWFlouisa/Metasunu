@@ -1,7 +1,3 @@
----
-title: "Design Philosophy"
-layout: base.html
----
 ## Design Philosophy
 This offers an example of how I seek to preserve the context around words as much as designing new vocabulary itself.
 
