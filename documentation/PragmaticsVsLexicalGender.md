@@ -1,7 +1,3 @@
----
-title: "Pragmatic Vs Lexical Gender"
-layout: base.html
----
 # Pragmatic Vs Lexical Gender
 Ahuzacos differs from Francais in that it has both Japanese pragmatic gender and French lexical gender. This was one of the reasons I invented pseudo lexical gender for Japanese loan words.
 
