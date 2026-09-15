@@ -1,6 +1,11 @@
 # Metasunu
 Some example scripts for Awasunu.
 
+## Awasunu To Lisp
+This is a work in progress subset that allows you to transpile to Common Lisp.
+
+[Awalisp](https://github.com/LWFlouisa/Awalisp.git)
+
 ## Example Script
 ~~~awasunu
 encrire Hello World
