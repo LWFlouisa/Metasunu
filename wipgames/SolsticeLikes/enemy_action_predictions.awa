@@ -1,0 +1,15 @@
+# ########################################################################### #
+#                     Enemey Intranstive State Prediction                     #
+# ########################################################################### #
+# This aims to predict enemy bludgeon, strange, and scoop rates based on diff #
+# simulations in order to alter the gameplay to feel more smooth and natural  #
+# to play.                                                                    #
+# ########################################################################### #
+encrireln PHASE ONE
+hlim 2 :bl bludgeon :st strangle :sc scoop
+
+encrireln PHASE TWO
+hlim 2 :bl bludgeon :st strangle :sc scoop
+
+encrireln PHASE TRE
+hlim 2 :bl bludgeon :st strangle :sc scoop
