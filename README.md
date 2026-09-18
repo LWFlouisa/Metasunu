@@ -7,7 +7,7 @@ This is a work in progress subset that allows you to transpile to Common Lisp.
 [Awalisp](https://github.com/LWFlouisa/Awalisp.git)
 
 ## Historical Prototype
-I decided to take a slightly different path from traditional Naive Bayes like ID3.
+I decided to take a slightly different path from traditional Naive Bayes like ID3. All varieties here combine Naive Bayes with Gain and Loss functions.
 
 [Imagined Path Plus Naive Bayes](https://github.com/LWFlouisa/IPPNB)
 
